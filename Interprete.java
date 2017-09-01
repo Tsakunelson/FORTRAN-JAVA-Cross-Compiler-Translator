@@ -27,7 +27,7 @@ public class Interprete {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		try {
-			FortranZToJava("D:\\libraries\\Documents\\NetBeansProjects\\F2JCompiler\\src\\f2jcompiler\\fortranz.prog");
+			FortranZToJava("D:\\libraries\\Documents\\NetBeansProjects\\F2JCompiler\\src\\f2jcompiler\\fortran.prog");
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
